@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer programming
 - 🌱 I’m currently learning .lua
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord : Heyz#8888
+- 📫 How to reach me Discord : Heamoss#7477
 
 <!---
 BerkayButHaze/BerkayButHaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
